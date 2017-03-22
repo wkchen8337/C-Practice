@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490106509 source:c:\users\wen-kai\desktop\c_program\ntu3052\main.c
+	<stdio.h>
+	<stdlib.h>
+
